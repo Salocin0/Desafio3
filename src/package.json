@@ -2,7 +2,7 @@
   "name": "desafio3",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "Resolucion desafio 3",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
